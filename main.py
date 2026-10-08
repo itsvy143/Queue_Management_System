@@ -59,3 +59,5 @@ while number <= 5:
 
 
 print("Please wait for your turn.")
+print("Now Serving: None")
+print("Next Customer: None")
